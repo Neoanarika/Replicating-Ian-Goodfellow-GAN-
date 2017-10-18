@@ -1,1 +1,0 @@
-#Replicating Ian Goodfellow GAN
